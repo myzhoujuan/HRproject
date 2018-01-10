@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-
     <keep-alive>
        <v-header></v-header>
        <router-view/>

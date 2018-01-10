@@ -19,7 +19,12 @@ export default {
   .container h1{
   	position: fixed;
     height: 44px;
+    width: 100%;
 	background: #3A3D40;
 	line-height: 44px;
+	font-size: 17px;
+	font-family:PingFangSC-Medium;
+	text-align:center;
+	color: #FFFFFF;
   }
 </style>
